@@ -24,3 +24,6 @@ Output: MASKRC_Masked_alignment.ALN
 Input: MASKRC_Masked_alignment.ALN and % of nucleotides 
 
 
+
+
+
